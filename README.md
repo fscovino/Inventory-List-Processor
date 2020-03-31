@@ -44,7 +44,4 @@ pip install pypiwin32
 
 ## Author
 
-**Francisco Scovino**
-*Systems Analyst & Programmer*
-[franciscoscovino@gmail.com](mailto:franciscoscovino@gmail.com)
-Miramar - Florida (US)
+**Francisco Scovino** | *Systems Analyst & Programmer* | [franciscoscovino@gmail.com](mailto:franciscoscovino@gmail.com) | (Miramar - Florida (US))
