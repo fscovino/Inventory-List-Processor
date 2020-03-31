@@ -1,7 +1,7 @@
 
 # INVENTORY LIST PROCESSOR
 
-This application allows users to connect to QuickBooks and export it's inventory information and process it to create an orginized price list with special fields like hyperlinks to open and view product images. It interacts with MS Excel to provide a well formatted sheet and with MS Outlook to send the different price lists to customers, sales reps and vendors registered on the database.
+This application allows users to connect to QuickBooks and export it's inventory information and process it to create an organized price list with special fields like hyperlinks to open and view product images. It interacts with MS Excel to provide a well formatted sheet and with MS Outlook to send the different price lists to customers, sales reps and vendors registered on the database.
 
 ## Current Version
 Version 1.0 - *Created on November, 2016*
